@@ -129,9 +129,4 @@ Visit: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 Feel free to contribute to this project by submitting issues or pull requests.  
 
 ---
-
-## License  
-This project is licensed under the **MIT License**.  
-
----
 🚀 **VCart - Your Custom E-Commerce Solution!**
